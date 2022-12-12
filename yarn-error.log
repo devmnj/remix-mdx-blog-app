@@ -1,0 +1,58 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js add @tailwindcss/typography
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\remoteit\resources\x64;C:\Users\manoj\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\TDM-GCC-64\bin;C:\Program Files\Go\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;\home\manoj\.bun\bin\bun;%BUN_INSTALL%\bin:C:\Program Files\Volta\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\remoteit\resources\x64;C:\Users\manoj\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\TDM-GCC-64\bin;C:\Program Files\Go\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;\home\manoj\.bun\bin\bun;%BUN_INSTALL%\bin:C:\Program Files\Volta\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\remoteit\resources\x64;C:\Users\manoj\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\TDM-GCC-64\bin;C:\Program Files\Go\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;\home\manoj\.bun\bin\bun;%BUN_INSTALL%\bin:C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\Syste;%PNPM_HOME%;C:\Users\manoj\AppData\Local\Volta\bin;C:\Users\manoj\AppData\Local\ActiveState\StateTool\release;C:\Users\manoj\AppData\Local\activestate\cache\bin;C:\Users\manoj\AppData\Local\Microsoft\WindowsApps;C:\Program Files\heroku\bin;C:\Program Files\JetBrains\PyCharm 2020.1.2\bin;C:\Users\manoj\.poetry\bin;E:\packages\flutter_windows_2.8.1-stable\flutter\bin;C:\Users\manoj\flutter\bin;C:\Program Files\JetBrains\WebStorm 2020.2.3\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin;C:\Users\manoj\.deno\bin;C:\Program Files\MongoDB\Server\4.4\bin\;C:\Users\manoj\AppData\Local\Android\Sdk\platform-tools;C:\Users\Me\AppData\Local\Android\Sdk\emulator;C:\Users\Me\AppData\Local\Android\Sdk;C:\Users\Me\AppData\Local\Android\Sdk\tools;C:\Users\Me\AppData\Local\Android\Sdk\tools\bin;C:\Users\manoj\AppData\Local\Programs\Microsoft VS Code Insiders\bin;C:\Users\manoj\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\manoj\.dotnet\tools;C:;C:\Users\manoj\AppData\Local\;C:\Program Files\MongoDB\Server\4.4\;C:\Users\manoj\AppData\Local\Programs\VSCodium\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2022.2\bin;C:\Program Files\Azure Data Studio\bin;C:\Users\manoj\.dotnet\tools;C:\Users\manoj\AppData\Local\JetBrains\Toolbox\scripts;C:\Program Files\nodejs;C:\Users\manoj\.dotnet\tools;C:\Users\manoj\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  18.12.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EPERM: operation not permitted, unlink 'E:\Web-Projects\Remix\vercel-mdx-app\node_modules\esbuild-windows-64\esbuild.exe'
+
+npm manifest: 
+  {
+    "private": true,
+    "sideEffects": false,
+    
+      "scripts": {
+        "build": "npm run build:css && remix build",
+        "build:css": "tailwindcss -m -i ./styles/app.css -o app/styles/app.css",
+        "dev": "concurrently \"npm run dev:css\" \"remix dev\"",
+        "dev:css": "tailwindcss -w -i ./styles/app.css -o app/styles/app.css"
+      },
+   
+    "dependencies": {
+      "@remix-run/node": "^1.8.1",
+      "@remix-run/react": "^1.8.1",
+      "@remix-run/vercel": "^1.8.1",
+      "@vercel/node": "^2.6.2",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+      "@remix-run/dev": "^1.8.1",
+      "@remix-run/eslint-config": "^1.8.1",
+      "@remix-run/serve": "^1.8.1",
+      "autoprefixer": "^10.4.13",
+      "concurrently": "^7.6.0",
+      "eslint": "^8.27.0",
+      "postcss": "^8.4.19",
+      "tailwindcss": "^3.2.4"
+    },
+    "engines": {
+      "node": ">=14"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
