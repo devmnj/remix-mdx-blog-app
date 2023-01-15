@@ -29,9 +29,14 @@ export default function App() {
         <Meta />
         <Links />            
       </head>
+
       <body className="h-screen">  
         <Navbar/>   
+        <div className="flex justify-center">       
+      <div className="prose lg:prose-xl py-10">
         <Outlet />
+        </div>
+        </div>
         <ScrollRestoration />
         <Scripts />
         <LiveReload />

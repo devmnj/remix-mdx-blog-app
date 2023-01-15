@@ -2,7 +2,7 @@ import React from 'react'
 import { json } from "@remix-run/node";
 import { Link, useLoaderData } from "@remix-run/react";
 import * as firstPost from "../blog/first-post.mdx"
-
+import * as secondPost from "../blog/second-post.mdx"
 function postFromModule(mod) {
     return {
       slug: mod.filename.replace(/\.mdx?$/, ""),
@@ -18,7 +18,7 @@ function postFromModule(mod) {
     // index page.
     return json([
       postFromModule(firstPost),
-     
+      postFromModule(secondPost),
     ]);
   }
   
